@@ -1,2 +1,2 @@
 # cs492
-Computer_Security
+Computer Security Course
